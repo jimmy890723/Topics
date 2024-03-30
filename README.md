@@ -1,4 +1,4 @@
-![image](https://github.com/jimmy890723/Topics/assets/55576122/cfc75f32-15ea-41f3-9656-6c996548d84c)# Topics
+Topics
 about my topics (3D引流管穿刺路徑於胰腺炎治療的智慧規劃系統) code
 
 由於匯入的檔案為DICOM檔，牽涉到病患個人隱私問題，故不附上
