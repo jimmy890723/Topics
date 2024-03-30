@@ -1,0 +1,6 @@
+f = open('score.txt')
+score = f.readlines()
+print("    ", "path1", "path2", "path3")
+print("long", int(score[0]), int(score[1]), int(score[2]))
+print("score", float(score[3]), float(score[4]), float(score[5]))
+f.close()
